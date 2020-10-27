@@ -1,0 +1,40 @@
+body{
+    background: green;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+.simbUp{
+    max-width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    height: 20%;
+    font-size: 70px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+.numero{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 60%; 
+    font-size: 90px;
+    
+}
+.simbDow{
+    
+    max-width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    height: 15%;
+    font-size: 70px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
